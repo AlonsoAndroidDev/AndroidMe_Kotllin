@@ -1,0 +1,19 @@
+
+r
+Bapp/src/main/java/com/example/android_m/data/AndroidImageAssets.kt,e/7/e7feb8a54b014b7fc85bdd94419f756fd1115524
+q
+Aapp/src/main/java/com/example/android_m/ui/MasterListerAdapter.kt,e/8/e8171de568d898b48744ee7fdefa36f80ee33f66
+j
+:app/src/main/java/com/example/android_m/ui/MainActivity.kt,4/5/4582c4ab90aa2ae26803e503d64ee8521963c876
+n
+>app/src/main/java/com/example/android_m/ui/BodyPartFragment.kt,1/a/1aae984cac952155da0b85b3c325bd01bfce33b8
+m
+=app/src/main/java/com/example/android_m/ui/LegPartFragment.kt,1/6/16af4404f35e6d7d5d72d7b372e4af04283ca7d1
+n
+>app/src/main/java/com/example/android_m/ui/HeadPartFragment.kt,8/1/81d2bd4603266dc6c041392081278a5a0869fe18
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+p
+@app/src/main/java/com/example/android_m/ui/MasterListFragment.kt,e/b/ebfd62b3b6fc8be3a072a3cd2477c2e8aad2fd9c
+k
+;app/src/main/java/com/example/android_m/ui/MainActivity2.kt,c/2/c2430b0d602a2e195be3d97c8474eb44a597d760
